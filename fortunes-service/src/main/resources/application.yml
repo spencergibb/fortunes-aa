@@ -1,0 +1,4 @@
+server.port: 6030
+
+spring:
+  data.cassandra.keyspace-name: fortunes
